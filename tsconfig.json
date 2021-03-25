@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src", // we dont have to compile every file now... Ts complier will pick everything from ./src and compile them to .ts file and save in outDir
+    "outDir": "./dist"
+  },
+}
